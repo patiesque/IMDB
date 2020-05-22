@@ -11,11 +11,11 @@
 ## 💡 Repositório:
 
 Repositorio foi desenvolvido para projeto modulo 1 curso AceleraDev React.<br/>
-Estatico, página inicial de um site de avaliação de filmes.<br/>
+Estático, página inicial de um site de avaliação de filmes.<br/>
 
 ## ⚙️ Techs:
-- HTML 
-- CSS 
+- HTML5
+- CSS3
 
 
 <br/>
